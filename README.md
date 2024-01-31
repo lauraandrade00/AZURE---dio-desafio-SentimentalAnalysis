@@ -2,7 +2,7 @@
 Desafio para utilizar texto como fonte de dados no portal da Azure através de ferramentas encontradas no Language Studio. Utilizando a funcionalidade "analisar sentimento e minerar opiniões" com o intuito de analisar a positividade/negatividade em sentimentos da mensagem, podendo ser feita a averiguação em sentenças isoladas de texto.
 
 ## Descrição da minha experiência
-Seguindo a orientação das aulas da [Digital Innovation One (Dio)](https://digitalinnovation.one/) vinculada à certificação AI-900, fui desafiada a utilizar um texto - nesse caso eu gerei um texto no chat de Inteligência Artificial [ChatGPT](https://chat.openai.com)-, utilizando das ferramentas disponibilizadas no site. Depois de criar meu recurso de linguagem, finalizei o prompt com minha mensagem, escolhi a linguagem em vigor e então iniciei a análise. Na pasta "inputs" você encontrará as saídas de acordo com a análise feita e as conclusões acerca de meu texto. Abaixo vou adicionar alguns prints acerca da minha experiência utilizando a ferramenta:
+Seguindo a orientação das aulas da [Digital Innovation One (Dio)](https://digitalinnovation.one/) vinculada à certificação AI-900, fui desafiada a utilizar um texto - nesse caso eu gerei um texto no chat de Inteligência Artificial [ChatGPT](https://chat.openai.com)-, utilizando das ferramentas disponibilizadas no site. Depois de criar meu recurso de linguagem, finalizei o prompt com minha mensagem, escolhi a linguagem em vigor e então iniciei a análise. Na pasta "inputs" você encontrará as saídas de acordo com a análise feita e as conclusões acerca de meu texto (em extensão json). Abaixo vou adicionar alguns prints acerca da minha experiência utilizando a ferramenta:
 
 
 
